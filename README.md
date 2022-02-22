@@ -1,5 +1,5 @@
 # ChimeraX-Docker
-A Docker image for UCSF ChimeraX.
+A Docker image for the next-gen molecular visualization program, [UCSF ChimeraX](https://www.cgl.ucsf.edu/chimerax/).
 
 * Ubuntu 20.04 as base image
 * Fix hash sum mismatch issue. For more details, see [here](https://forums.docker.com/t/hash-sum-mismatch-writing-more-data-as-expected/45940/2).
