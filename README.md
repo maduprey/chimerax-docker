@@ -8,7 +8,7 @@ A Docker image for the next-gen molecular visualization program, [UCSF ChimeraX]
 ## Usage
 1. Download `ucsf-chimerax_1.3ubuntu20.04_amd64.deb` from the ChimeraX [download page](https://www.rbvi.ucsf.edu/chimerax/download.html) and move to repo directory
 2. `cd` to the repo
-3. Run Docker
+3. Start Docker
 4. Invoke `docker build -t chimerax .`
 
 ## DockerHub
