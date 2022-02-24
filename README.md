@@ -20,4 +20,4 @@ A Docker image for the next-gen molecular visualization program, [UCSF ChimeraX]
 	```
 
 ## DockerHub
-A prebuilt version of this image can be found on [DockerHub](https://hub.docker.com/repository/docker/maduprey/chimerax). Or, use `docker pull maduprey/chimerax`.
+A prebuilt version of this image can be found on [DockerHub](https://hub.docker.com/r/maduprey/chimerax). Or, use `docker pull maduprey/chimerax`.
