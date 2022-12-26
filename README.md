@@ -24,6 +24,7 @@ A Docker image for the next-gen molecular visualization program, [UCSF ChimeraX]
 	docker build -t maduprey/chimerax:1.5 .
 	docker push maduprey/chimerax:1.5
 	```
+	Note that we can't make a GitHub action since the .deb file lives locally and is too large to host on GH.
 -->
 
 
